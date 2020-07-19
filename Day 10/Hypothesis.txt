@@ -1,0 +1,22 @@
+1.If mean of YearsWithCurrManager is 4 then the StockOptionLevel becomes less.By taking sample 50 employees with standard deviation =3.567327
+
+2.Monthly Income of person at a company for 5 Years in 49190.
+  Hypothesis:Monthly Income of person at a company for 10 Years in 98380.
+
+3.Age variance for 4400 employees is 8.34.
+  Hypothesis: Age variance for 2200 employees is 4.17.
+
+4.Mean age of an employee with atrition is 35. The population standard deviation was found to be 12.
+  Hypothesis: For a sample of 70 employees the mean age is found to be 32.
+
+5.If mean of StockOptionLevel is 0.793878 then attrition happened.
+
+6.If the mean of JobLevel is 2 then the YearsSinceLastPromotion becomes less.
+
+7.If the mode of age is 60 then Joblevel will be high.
+
+8.If mean of PercentSalaryHike is 15 then attrition happened.
+
+9.If mean of MaritalStatus is single or Divorced then attrition happened. So takinng sample employees of 100 average no of them are single or Divorced.
+
+10.If mean of TotalWorkingYears is 7 then StockOptionLevel becomes less.
